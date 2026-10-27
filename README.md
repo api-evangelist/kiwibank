@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kiwibank is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.kiwibank.co.nz/
+Kiwibank is a 100% Kiwi‑owned bank offering personal, business and rural banking services. It provides a range of accounts, loans, mortgages, credit cards and digital tools to help customers manage money, pay bills and grow wealth, all backed by a commitment to community and sustainability.
+
+**Areas:** Company · Banking · Finance · NewZealand · DigitalBanking
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.kiwibank.co.nz/)
+- [GitHub](https://github.com/Kiwibank)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kiwibank/](https://apis.io/providers/kiwibank/).
